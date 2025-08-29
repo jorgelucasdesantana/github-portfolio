@@ -3,11 +3,13 @@
 #### Technical Skills: Power Platform, Blue Prism, C#, SQL, Azure, Git, SAP
 
 ## Education
-- Control and Automation Engineering | Universidade Federal de Santa Catarina (_December 2019_)
+- Control and Automation Engineering | UFSC (_December 2019_)
 
-## Work Experience and Most Relevant Projects
+## Work Experience and Projects
 Atos | RPA Developer | São Paulo, SP (Remote) Oct. 2021 – Present
 - Developed a Power Apps app for Project Manager Office that allows Managers to consult and updates their projects data in Shapoint
+![Project Cockpit](/assets/img/Home.png)
+
 - Managed Power Platform Environment and solutions using power platform (Automate, BI and Apps) for PMO
 - Implemented mecanism of errors control that sends message with relevant information in Teams Channel when a flow gets an error
 - Manage the Sharepoint pages/lists and documented process and solutions
