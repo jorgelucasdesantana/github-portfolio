@@ -10,13 +10,13 @@
 ### Atos | RPA Developer | São Paulo, SP (Remote) | Oct. 2021 – Present
 - Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
   ![Project Cockpit - Home](./assets/img/Home.png)  
-  ![Project Cockpit - Form](./assets/img/form.png)  
-  ![Project Cockpit - Filter](./assets/img/filter.png)  
+  ![Project Cockpit - Form](./assets/img/Form.png)  
+  ![Project Cockpit - Filter](./assets/img/Filter.png)  
 
 - Managed the **Power Platform** environment and solutions, including Power Automate, Power BI, and Power Apps.  
 
 - Created automated flows in **Power Automate** to send HTML/CSS-formatted email reports to project managers. Implemented an error-handling mechanism that sends detailed notifications to a **Teams** channel whenever a flow fails.  
-  ![Project Cockpit - Watchdog](./assets/img/watchdog.png)  
+  ![Project Cockpit - Watchdog](./assets/img/Watchdog.png)  
 
 - Administered **SharePoint** pages/lists and documented processes and solutions.  
 
