@@ -11,7 +11,7 @@
 - Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
   ![Project Cockpit - Home](./assets/img/Home.png)  
   ![Project Cockpit - Form](./assets/img/Form.png)  
-  ![Project Cockpit - Filter](./assets/img/Filter.png)  
+  ![Project Cockpit - Filter](./assets/img/Filter2.png)  
 
 - Managed the **Power Platform** environment and solutions, including Power Automate, Power BI, and Power Apps.  
 
