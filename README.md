@@ -1,41 +1,36 @@
-# Automation Engineer
-
-#### Technical Skills: Power Platform, Blue Prism, C#, SQL, Azure, Git, SAP
-
-## Education
-- Control and Automation Engineering | UFSC (_December 2019_)
-
-## Work Experience and Projects
-
-### Atos | RPA Developer | São Paulo, SP (Remote) | Oct. 2021 – Present
-- Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
-  ![Project Cockpit - Home](./assets/img/Home.png)  
-  ![Project Cockpit - Form](./assets/img/Form.png)  
-  ![Project Cockpit - Filter](./assets/img/Filter.png)  
-
-- Managed the **Power Platform** environment and solutions, including Power Automate, Power BI, and Power Apps.  
-
-- Created automated flows in **Power Automate** to send HTML/CSS-formatted email reports to project managers. Implemented an error-handling mechanism that sends detailed notifications to a **Teams** channel whenever a flow fails.  
-  ![Project Cockpit - Watchdog](./assets/img/Watchdog.png)  
-
-- Administered **SharePoint** pages/lists and documented processes and solutions.  
-
-- Worked as an **RPA Consultant** for **Vivo Telefônica**, developing a C# console automation called **KitBicMercadorias**.  
-  - This solution runs on over 60 simultaneous virtual machines, extracts SAP documents, and is orchestrated through **Control-M**.  
-  - Results are monitored and visualized via **Grafana dashboards**.  
-  ![KitBicMercadorias - Execution](./assets/img/KitBicMercadorias.png)  
-  ![KitBic - Console App](./assets/img/KitBic_Console.png)  
-  ![Grafana Dashboard](./assets/img/Grafana.png)  
-  ![Grafana Dashboard 2](./assets/img/GrafanaKitBic2.png)  
-
 ---
+layout: home
+title: "Seu Nome — Automation Engineer"
+permalink: /
+---
+
+# About Me
+Olá! Sou **Engineering Automation**, formado em Engenharia de Controle e Automação pela UFSC (Dezembro 2019), atualmente trabalhando como RPA Developer remoto na Atos. Tenho experiência com Power Platform, Blue Prism, C#, SQL, Azure, Git e SAP.
+
+## Skills
+- **Power Platform** (Power Apps, Power Automate, Power BI)
+- **C#**, **SQL**, **Azure**, **Git**
+- **SAP**, **Blue Prism**
+
+## Projects & Experience
+
+### Atos | RPA Developer (Remote) | Oct 2021 – Present  
+- Desenvolvi um app em **Power Apps** para o PMO, integrado ao **SharePoint** com dashboards e filtros.  
+- Automatizei envios de relatórios (HTML/CSS) via **Power Automate** com notificações de erro no **Teams**.  
+- Gerenciei ambientes da **Power Platform** e documentei processos.  
+- Criei automação **KitBicMercadorias** em C#, orquestrada pelo **Control-M**, com visualização em **Grafana**.
+
+### Vivo Telefônica
+- Desenvolvimento de automação em C# para extração de dados SAP, com dashboards **Grafana**.
 
 ### WEG
-- Developed **Blue Prism** automation solutions integrating **SAP** and **ServiceNow** through APIs.  
-
----
+- Soluções **RPA com Blue Prism** integrando **SAP** e **ServiceNow** via API.
 
 ### Bunge
-- Built a **Blue Prism** automation for customer credit analysis.  
-  - The solution collects data from ERP systems and external websites.  
-  - It calculates and assigns a credit score to support decision-making.  
+- Automação **Blue Prism** para análise de crédito, consultando ERPs e websites, gerando score automático.
+
+## Education
+**UFSC** — Engenharia de Controle e Automação (Dezembro 2019)
+
+## Contact
+- [LinkedIn](#) • [GitHub](#) • [Email](mailto:seu-email@exemplo.com)
