@@ -3,30 +3,41 @@
 #### Technical Skills: Power Platform, Blue Prism, C#, SQL, Azure, Git, SAP
 
 ## Education
-- Control and Automation Engineering | UFSC (_December 2019_)
+- B.Sc. in Control and Automation Engineering | UFSC (_December 2019_)
 
 ## Work Experience and Projects
-Atos | RPA Developer | São Paulo, SP (Remote) Oct. 2021 – Present
-- Developed a Power Apps app for Project Manager Office that allows Managers to consult and updates their projects data in Shapoint
-![Project Cockpit](/assets/img/Home.png)
-![Project Cockpit](/assets/img/form.png)
-![Project Cockpit](/assets/img/filter.png)
 
-- Managed Power Platform Environment and solutions using power platform (Automate, BI and Apps)
-- Developed automated flows in Power Automat that send email reports (format using HTML and CSS) for project managers. Also Implemented mecanism of errors control that sends message with relevant information in Teams Channel when a flow gets an error.
-![Project Cockpit](/assets/img/watchdog.png)
+### Atos | RPA Developer | São Paulo, Brazil (Remote) | Oct. 2021 – Present
 
-- Manage the Sharepoint pages/lists and documented process and solutions
+- Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update their project data in **SharePoint**.  
+  ![Project Cockpit - Home](/assets/img/Home.png)  
+  ![Project Cockpit - Form](/assets/img/form.png)  
+  ![Project Cockpit - Filter](/assets/img/filter.png)  
 
-- Work as RPA Consultant for Vivo Telefonica creating an C# (console app) automation called KitBicMercadorias. That solution executes in over 60 simultaneous virtual machines extracting SAP documents and are orquestrated through ControlM, with results are presented via Grafana dashboards
-![Project Cockpit](/assets/img/KitBicMercadorias.png)
-![Project Cockpit](/assets/img/KitBic_Console.png)
-![Project Cockpit](/assets/img/Grafana.png)
-![Project Cockpit](/assets/img/GrafanaKitBic2.png)
+- Managed **Power Platform environments** and solutions (Power Automate, Power BI, and Power Apps).
 
-WEG
-- Development of Blue Prism automation solutions integrating SAP and ServiceNow using API
+- Created automated flows in **Power Automate** to send email reports (formatted with HTML and CSS) to project managers.  
+  - Implemented an error-handling mechanism that notifies a **Teams channel** with detailed information whenever a flow fails.  
+  ![Project Cockpit - Watchdog](/assets/img/watchdog.png)  
 
-Bunge
-- Developed a Blue Prism automation for customer credit analisys that search information over ERP systems and external websites and then define a score for credit definition 
+- Managed **SharePoint pages/lists** and documented processes and solutions.
 
+- Acted as an **RPA Consultant** for **Vivo Telefónica**, developing a C# console application called **KitBicMercadorias**.  
+  - This solution runs on 60+ simultaneous virtual machines to extract SAP documents.  
+  - Orchestrated with **Control-M**, with results displayed in **Grafana dashboards**.  
+  ![KitBicMercadorias - Console](/assets/img/KitBic_Console.png)  
+  ![KitBicMercadorias - SAP Integration](/assets/img/KitBicMercadorias.png)  
+  ![Grafana - Dashboard 1](/assets/img/Grafana.png)  
+  ![Grafana - Dashboard 2](/assets/img/GrafanaKitBic2.png)  
+
+---
+
+### WEG | RPA Developer
+- Designed and developed **Blue Prism** automation solutions integrating **SAP** and **ServiceNow** via API.
+
+---
+
+### Bunge | RPA Developer
+- Developed a **Blue Prism** automation for **customer credit analysis**.  
+  - The solution collects information from ERP systems and external websites.  
+  - Generates a credit score to support decision-making.
