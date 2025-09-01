@@ -40,4 +40,4 @@
   - The solution collects data from ERP systems and external websites.  
   - It calculates and assigns a credit score to support decision-making.
   ![CreditAnalysis - Fluxo](./assets/img/Fluxo.png)  
-  ![CreditAnalysis - Credit](./assets/img/Credit.png)  
+  ![CreditAnalysis - Credit](./assets/img/Credito.png)  
