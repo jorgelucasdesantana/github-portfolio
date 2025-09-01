@@ -7,7 +7,7 @@
 
 ## Work Experience and Projects
 
-### Atos | RPA Developer | São Paulo, SP (Remote) | Oct. 2021 – Present
+### Atos | RPA Analyst | São Paulo, SP (Remote) | Oct. 2021 – Present
 - Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
   ![Project Cockpit - Home](./assets/img/Home.png)  
   ![Project Cockpit - Form](./assets/img/Form.png)  
@@ -30,12 +30,12 @@
 
 ---
 
-### WEG
+### WEG | RPA Developer | Jaraguá do Sul, SC (Remote) | Mar. 2021 – Oct. 2021
 - Developed **Blue Prism** automation solutions integrating **SAP** and **ServiceNow** through APIs.  
 
 ---
 
-### Bunge
+### Bunge | RPA Developer | Gaspar, SC | Jul. 2019 – Feb. 2020
 - Built a **Blue Prism** automation for customer credit analysis.  
   - The solution collects data from ERP systems and external websites.  
   - It calculates and assigns a credit score to support decision-making.  
