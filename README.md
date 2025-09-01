@@ -38,4 +38,6 @@
 ### Bunge | RPA Developer | Gaspar, SC | Jul. 2019 – Feb. 2020
 - Built a **Blue Prism** automation for customer credit analysis.  
   - The solution collects data from ERP systems and external websites.  
-  - It calculates and assigns a credit score to support decision-making.  
+  - It calculates and assigns a credit score to support decision-making.
+  ![CreditAnalysis - Fluxo](./assets/img/Fluxo.png)  
+  ![CreditAnalysis - Credit](./assets/img/Credit.png)  
