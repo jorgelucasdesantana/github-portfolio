@@ -8,7 +8,7 @@
 ## Work Experience and Projects
 
 ### Atos | RPA Analyst | São Paulo, SP (Remote) | Oct. 2021 – Present
-- Developed a **Power Apps** solution for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
+- Developed a **Power Apps** canvas app for the Project Management Office that enables managers to consult and update project data in **SharePoint**.  
   ![Project Cockpit - Home](./assets/img/Home.png)  
   ![Project Cockpit - Form](./assets/img/Form.png)  
   ![Project Cockpit - Filter](./assets/img/Filter2.png)  
